@@ -3,35 +3,35 @@
     "prefix": "!",
     "main": {
         "token": "",
-        "userid": "",
-        "commandschannelid": "",
-        "huntbotchannelid": "",
-        "owodmchannelid": "",
-        "gamblechannelid": "",
-        "autoquestchannelid": "",
+        "userid": "938317084847374387",
+        "commandschannelid": "1058453082511511732",
+        "huntbotchannelid": "1336208068828205078",
+        "owodmchannelid": "1305131852448661544",
+        "gamblechannelid": "1058453082511511732",
+        "autoquestchannelid": "1336208797278142565",
         "autostart": false,
 
         "commands": {
             "hunt": true,
             "battle": true,
-            "pray": false,
-            "curse": true,
+            "pray": true,
+            "curse": false,
             "huntbot": {
                 "enable": true,
-                "maxtime": 10,
+                "maxtime": 24,
                 "upgrade": false,
                 "upgradetype": "duration"
             },
             "gamble": {
-                "coinflip": true,
-                "slot": true
+                "coinflip": false,
+                "slot": false,
             },
             "animals": false,
             "inventory": true,
             "checklist": true,
             "autoquest": true
         },
-        "maximum_gem_rarity": "Mythical"
+        "maximum_gem_rarity": "legendary"
     },
     "extra": {
         "enable": false,
