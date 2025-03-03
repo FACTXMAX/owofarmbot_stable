@@ -3,12 +3,12 @@
     "prefix": "!",
     "main": {
         "token": "",
-        "userid": "938317084847374387",
-        "commandschannelid": "1058453082511511732",
-        "huntbotchannelid": "1336208068828205078",
-        "owodmchannelid": "1305131852448661544",
-        "gamblechannelid": "1058453082511511732",
-        "autoquestchannelid": "1336208797278142565",
+        "userid": "",
+        "commandschannelid": "",
+        "huntbotchannelid": "",
+        "owodmchannelid": "",
+        "gamblechannelid": "",
+        "autoquestchannelid": "",
         "autostart": false,
 
         "commands": {
