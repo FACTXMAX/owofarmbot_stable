@@ -9,7 +9,7 @@
         "owodmchannelid": "",
         "gamblechannelid": "",
         "autoquestchannelid": "",
-        "autostart": false,
+        "autostart": true,
 
         "commands": {
             "hunt": true,
@@ -71,23 +71,23 @@
         "owoprefix": "owo",
         "discordrpc": false,
         "chatfeedback": true,
-        "autophrases": true,
-        "autoresume": false,
-        "autojoingiveaways": false,
+        "autophrases": false,
+        "autoresume": true,
+        "autojoingiveaways": true,
 
         "checklist": {
             "types": {
                 "daily": true,
                 "cookie": false,
-                "vote": false
+                "vote": true
             }
         },
 
         "inventory": {
             "use": {
-                "lootbox": true,
+                "lootbox": false,
                 "fabledlootbox": false,
-                "crate": true,
+                "crate": false,
                 "gems": true
             }
         },
